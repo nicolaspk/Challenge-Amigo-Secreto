@@ -22,15 +22,5 @@ A ideia é simples: você adiciona os nomes dos seus amigos em uma lista e, com 
 
 ---
 
-## 🚀 Como usar
-
-1. Clone este repositório ou baixe os arquivos.
-2. Abra o arquivo `index.html` no navegador.
-3. No campo de texto, digite o nome de um amigo e clique em **Adicionar**.
-4. Veja a lista crescer! 📝
-5. Clique em **Sortear amigo** para descobrir o "sortudo(a)".
-
----
-
 ## 📂 Estrutura básica
 
